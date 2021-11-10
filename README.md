@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I'm Harry Eaton-Campbell  
+A student at Staffordshire University
+
+ 🔭 I’m currently working on a Pacman look-alike for my course.               
+ 🌱 I’m currently learning C++ using Visual Studios.
 
 <!--
 **HarryEaton-Campbell/HarryEaton-Campbell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
