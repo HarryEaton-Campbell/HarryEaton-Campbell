@@ -3,8 +3,11 @@ A student at Staffordshire University
 
  🔭 I’m currently working on a Mario (arcade) look a like for my course.               
  🌱 I’m currently learning C++ using Visual Studios.
+ 
  😄 Some of my projects that I have made are a Pacman clone which i made for my course and a starter introudction to using OpenGl which i made objects and textured them and created lighting for the scene.
- 📎 I'm looking at competeing in some Games Jams over the summer to improve my skills
+
+ 📎 I'm looking at competeing in some Games Jams over the summer to improve my skills.
+ 
  📫 If you need to reach me there is a repository which will take you to my portfolio where there are attached links to socials in the footer.
 
 <!--
